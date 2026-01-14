@@ -36,3 +36,6 @@ button{
   width:100px;
 }
 
+h1{
+  text-shadow: 0 0 4px black;
+}
