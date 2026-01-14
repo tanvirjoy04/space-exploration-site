@@ -22,3 +22,7 @@ button{
   /* text-decoration: underline; */
   border-bottom: 5px solid white;
 }
+
+#main-logo{
+  width:120px;
+}
