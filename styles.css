@@ -7,14 +7,18 @@ body{
   font-size:larger;
   font-family: "Orbitron", sans-serif;
   font-optical-sizing: auto;
-  /* font-weight: 900; */
+  font-weight: 900;
   font-style: normal;
 }
-
-
+ 
 button{
   background-color: white;
   padding:6px 12px;
   border: none;
   font-family: inherit;
+}
+
+.underline{
+  /* text-decoration: underline; */
+  border-bottom: 5px solid white;
 }
