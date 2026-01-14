@@ -37,5 +37,6 @@ button{
 }
 
 h1{
+  /* text-shadow blurr to make text more clear, more readable */
   text-shadow: 0 0 4px black;
 }
